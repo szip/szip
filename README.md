@@ -1,0 +1,2 @@
+# szip
+Data Streaming Format
